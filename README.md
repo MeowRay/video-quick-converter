@@ -1,6 +1,6 @@
 ### Windows视频右键菜单快速转换脚本
 右键点击视频文件，使用ffmpeg快速进行转换操作。
-![1.png](https://s2.loli.net/2025/02/20/NemjXqLpOKsuUA2.png)
+![1.png](https://s2.loli.net/2025/02/20/qklzgZKNYO54pFW.png)
 
 #### 需求:
 - **Python**
